@@ -35,7 +35,7 @@ body {
     display: inline;
 }
 #navbar li a {
-    font-family: Montserrat;
+    font-family: "Montserrat";
     font-size: 1.5em;
     font-weight: 400;
     text-decoration: none;
