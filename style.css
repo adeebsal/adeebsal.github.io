@@ -1,5 +1,5 @@
 body {
-    background: #f3f2ee;
+    background: #ffffff;
     text-align: left;
 }
 #header {
@@ -35,7 +35,7 @@ body {
     display: inline;
 }
 #navbar li a {
-    font-family: Special Elite;
+    font-family: Montserrat;
     font-size: 1.5em;
     font-weight: 400;
     text-decoration: none;
@@ -49,8 +49,6 @@ body {
 #navbar li a:hover {
     background-color: black;
     color: white;
-    border-top-right-radius: .25em;
-    border-top-left-radius: .25em;
     border-bottom: solid;
     border-bottom-color: black;
 }
