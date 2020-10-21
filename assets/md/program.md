@@ -20,3 +20,10 @@ ENT 3613	| Fall 2020	| Learning the concepts and theory behind entrepreneurship 
 
 SPN 2200	| IB Credit	| Learned how to read, write and speak Spanish at a basic level, some fluency but not natural level
 SPN 1121C	| IB Credit	| Learned to read and listen to Spanish as if second language, and speak more fluently
+
+### General Education/Other
+
+LIT 1000	| IB Credit	| 
+ENC1141		| IB Credit	| 
+ENC 1101	| Fall 2017	| 
+ENC 1102	| Spring 2018	| 
