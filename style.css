@@ -1,7 +1,10 @@
 body {
     background: #ffffff;
     text-align: left;
+    font-family: "Montserrat";
+    color: #000;
 }
+
 #header {
     margin-top: 2em;
     margin-left: auto;
@@ -19,11 +22,19 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
-#logo {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 0;
+.roundcrop {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+.profile {
+    display: inline;
+    margin: 0 auto;
+    margin-left: -25%;
+    height: 100%;
+    width: auto;
 }
 #navbar {
     padding: 1em;
@@ -56,10 +67,6 @@ body {
     font-family: Special Elite;
     text-align: center;
     color: red;
-}
-body p {
-    font-family: Special Elite;
-    color: #333;
 }
 footer {
     text-align: center;
