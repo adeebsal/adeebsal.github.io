@@ -70,7 +70,8 @@ footer {
     font-family: montserrat;
     font-weight: 400;
     display: block;
-    margin-bottom: 0px;
+    margin-bottom: 2em;
+    margin-top: 2em;
     font-size: .75em;
     color: #9999;
 }
