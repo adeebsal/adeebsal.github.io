@@ -82,7 +82,7 @@ footer a {
 /*Dark mode suppport*/
 @media (prefers-color-scheme: dark) {
     body {
-        background: #333;
+        background: #000000;
         color: #ffffff;
     }
     body p {
@@ -96,7 +96,7 @@ footer a {
     }
     #navbar li a:hover {
         background-color: #ffffff;
-        color: #333;
+        color: #000000;
         border-bottom-color: #ffffff;
     }
     body a {
