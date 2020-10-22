@@ -4,7 +4,7 @@
 
 ### Computer Science Minor
 Classes		| Semester	| Skills gained
----------------	| -------------	| -------------
+-----------	| ---------	| -------------
 COT 3100C	| Summer 2019	| Intro to discrete structures, learned how to think in computer logic operators, which makes it easier to understand processing
 COP 3223C	| Summer 2020	| Learned the basics and structure of the C programming language, how to organize code, syntax that other languages branch off of
 COP 3330	| Fall 2020	| Learning the Java programming language and how object oriented programming differs from standard procedural programming
@@ -14,15 +14,21 @@ MAC 2312C	| Summer 2019	|
 
 ### Area of Study: Commerce
 
+Classes		| Semester	| Skills gained
+-----------	| ---------	| -------------
 ENT 3613	| Fall 2020	| Learning the concepts and theory behind entrepreneurship and creativity as a skill
 
 ### Area of Study: Letters and Modern Languages
 
+Classes		| Semester	| Skills gained
+-----------	| ---------	| -------------
 SPN 2200	| IB Credit	| Learned how to read, write and speak Spanish at a basic level, some fluency but not natural level
 SPN 1121C	| IB Credit	| Learned to read and listen to Spanish as if second language, and speak more fluently
 
 ### General Education/Other
 
+Classes		| Semester	| Skills gained
+-----------	| ---------	| -------------
 LIT 1000	| IB Credit	| 
 ENC1141		| IB Credit	| 
 ENC 1101	| Fall 2017	| 

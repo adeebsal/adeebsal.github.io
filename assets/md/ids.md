@@ -1,3 +1,5 @@
 # What is interdisciplinary studies?
 
+Interdisciplinary Studies is an approach to studies and problem solving that aims to integrate knowledge from multiple disciplines, with the goal of creating solutions to problems that are not one-sided. The idea is not only to look at problems from multiple perspectives, but to consider how perspectives from different disciplines work together to create a more holistic understanding, and a similarly holistic solution. 
 
+As problems become increasingly complex, it becomes harder to solve them from the perspectives of any single discipline. The interdisciplinary studies mindset allows people to better integrate ideas from the various disciplines they participate in and work with others that may be more knowledgable in other disciplines as well. The skills I learn in the Interdisciplinary Studies program will prepare me to solve problems working with people from across disciplines.
