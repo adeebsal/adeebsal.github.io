@@ -1,24 +1,17 @@
-body {
-    background: #ffffff;
-    text-align: left;
-    font-family: "Montserrat";
-    color: #000;
-}
+/*Imports*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
 
 /*Header section*/
 #header {
     margin-top: 2em;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 0em;
 }
 #name {
-    font-family: "Montserrat";
     font-weight: 600;
     text-align: center;
-    line-height: 0.9;
-    margin-top: .05em;
-    margin-bottom: 0;
+    margin-top: 0em;
+    margin-bottom: -.25em;
     margin-left: auto;
     margin-right: auto;
 }
@@ -39,6 +32,8 @@ body {
     height: 100%;
     width: auto;
 }
+
+/*Navbar*/
 #navbar {
     padding: 1em;
     text-align: center;
@@ -52,7 +47,6 @@ body {
     background-color: black;
 }
 #navbar li a {
-    font-family: "Montserrat";
     font-size: 1.5em;
     font-weight: 400;
     text-decoration: none;
@@ -65,9 +59,16 @@ body {
     color: white;
 }
 
+
+body {
+    background: #ffffff;
+    text-align: left;
+    font-family: "Inter";
+    color: #000;
+}
+
 footer {
     text-align: center;
-    font-family: montserrat;
     font-weight: 400;
     display: block;
     margin-bottom: 2em;
