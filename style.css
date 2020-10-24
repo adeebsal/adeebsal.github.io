@@ -83,16 +83,15 @@ footer a {
 
 /*Table Styles*/
 table {
-    display: inline-block;
     border-collapse: collapse;
-    border-style: solid;
+ /*   border-style: solid;
     border-width: 1px;
-    border-radius: 10px;
+    border-radius: 10px;*/
     overflow: hidden;
 }
 th, td {
     padding: 10px;
-    border: 1px solid #ddd;
+    border: 1px solid #ccc;
 }
 
 /*Dark mode suppport*/
@@ -120,6 +119,12 @@ th, td {
     }
     footer {
         color: #666
+    }
+    table {
+
+    }
+    th, td {
+
     }
 }
 
