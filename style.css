@@ -120,6 +120,9 @@ th, td {
     footer {
         color: #666
     }
+    th, td {
+        border: 1px solid #999;
+    }
 }
 
 /*Adjust sizing for mobile screens*/
