@@ -17,11 +17,6 @@
 }
 .roundcrop {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 1em;
-    width: 200px;
-    height: 200px;
     position: relative;
     overflow: hidden;
     border-radius: 50%;
@@ -35,7 +30,6 @@
 
 /*Navbar*/
 #navbar {
-    padding: 1em;
     text-align: center;
 }
 #navbar li {
@@ -47,12 +41,10 @@
     background-color: black;
 }
 #navbar li a {
-    font-size: 1.5em;
     font-weight: 400;
     text-decoration: none;
     color: black;
     display: block;
-    padding: .5em;
     text-align: center;
 }
 #navbar li a:hover {
@@ -126,49 +118,65 @@ th, td {
 }
 
 /*Adjust sizing for mobile screens*/
-@media screen and (max-width:350px) {
+@media screen and (min-width: 0px) and (max-width:350px) {
     body {
         margin-left: 10%;
         margin-right: 10%;
     }
     #name {
-        font-size: 15vw;
+        font-size: 3em;
     }
-    #logo {
-        height: 15vh;
-    }
-    #navbar li a {
-    display: block;
+    .roundcrop {     
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 1em;
+        width: 120px;
+        height: 120px;
     }
     body p {
     font-size: 1.25em;
-    line-height: 1.5em;
+    line-height: 1.25em;
     }
     #navbar {
     margin-top: 0em;
     margin-bottom: 0em;
+    padding: .5em;
+    }
+    #navbar li a {
+        font-size: 1.25em;
+        padding: .3em;
     }
 }
-@media screen and (min-width:351px) and (max-width: 600px) {
+@media screen and (min-width:351px) and (max-width: 900px) {
     body {
-        margin-left: 10%;
-        margin-right: 10%;
+        margin-left: 15%;
+        margin-right: 15%;
     }
     #name {
-        font-size: 15vw;
+        font-size: 4em;
     }
-    #logo {
-        height: 15vh;
+    .roundcrop {     
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 1em;
+        width: 160px;
+        height: 160px;
     }
     body p {
     font-size: 1.5em;
     line-height: 1.5em;
     }
-    #announcement {
-        font-size: 1.75em;
+    #navbar {
+    margin-top: .5em;
+    margin-bottom: 1em;
+    padding: .75em;
+    }
+    #navbar li a {
+        font-size: 1.4em;
+        padding: .4em;
     }
 }
-@media screen and (min-width:601px) {
+@media screen and (min-width:901px) {
     body {
         margin-left: 20%;
         margin-right: 20%;
@@ -176,8 +184,12 @@ th, td {
     #name {
         font-size: 5em;
     }
-    #logo {
-        height: 10em;
+    .roundcrop {     
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 1em;
+        width: 200px;
+        height: 200px;
     }
     body p {
     font-size: 1.5em;
@@ -186,8 +198,10 @@ th, td {
     #navbar {
     margin-top: 1em;
     margin-bottom: 2em;
+    padding: 1em;
     }
-    #announcement {
-        font-size: 1.75em;
+    #navbar li a {
+        font-size: 1.5em;
+        padding: .5em;
     }
 }
