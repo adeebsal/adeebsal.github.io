@@ -149,8 +149,8 @@ th, td {
 }
 @media screen and (min-width:401px) and (max-width: 900px) {
     body {
-        margin-left: 15%;
-        margin-right: 15%;
+        margin-left: 10%;
+        margin-right: 10%;
     }
     #name {
         font-size: 4em;
