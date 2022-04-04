@@ -123,6 +123,9 @@ th, td {
         margin-left: 10%;
         margin-right: 10%;
     }
+    body p img {
+        max-width: 100%;
+    }
     #name {
         font-size: 3em;
     }
