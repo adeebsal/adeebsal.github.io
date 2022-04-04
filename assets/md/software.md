@@ -1,10 +1,3 @@
-# List of artifacts I could show
-- Zillow-esque home pricing estimates in Python machine learning
-- reunion cafe website
-- minecraft-kubernetes
-- raspberry pi menuboard
--
-
 This is a selection of software projects I have worked on for classes and personal use. All of these are available as repositories on my [GitHub page](https://github.com/adeebsal)
 
 # [Home Value Predictor](https://github.com/adeebsal/homevaluepredictor)
