@@ -5,3 +5,4 @@ For the menuboard at my family's restaurant, we needed a solution that was easy 
 It also taught me the importance of backups. This past year, two of the Pis suffered SD card failures, and the configurations were not properly backed up. They are now instead running Screenly Open Source Edition, a digital signage software solution that simplifies setup, but comes with a host of other issues such as being too heavy for the Pis to run smoothly. However, it provides a stopgap solution while I re-configure the system to a custom one that works better.
 
 ![Image of menuboard](assets/img/menuboardpic.png)
+
