@@ -6,3 +6,6 @@ It also taught me the importance of backups. This past year, two of the Pis suff
 
 ![Image of menuboard](assets/img/menuboardpic.png)
 
+# Linux Server, Network, and Cloud Management
+
+This is a fairly recent endeavor for me. I've begun building out a home lab consisting of server nodes (one Dell Micro for now, more to add to the cluster soon) and building out a small-enterprise-class network for the home using Ubiquiti network hardware. Along with this, I have instances on the Amazon Web Services cloud and Oracle Cloud to run microservices on. With these resources, I've been actively learning how to build cloud infrastructure, learn network management principles, implement systems that have automatic failover, and generally learn more about system management. In business, reliability of technology is of utmost importance, especially mission-critical things. I'm learning how to integrate that principle into everything I can and build fail-proof solutions. 
